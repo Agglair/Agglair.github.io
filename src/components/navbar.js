@@ -96,7 +96,7 @@ const Navbar = () => {
               className="text-black opacity-50 hover:opacity-100 px-3 py-3 rounded-md text-m font-medium font-montserrat"
               href="/about"
             >
-              About
+              About me
             </a>
 
             <a
