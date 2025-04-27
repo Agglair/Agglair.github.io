@@ -16,7 +16,7 @@ const Testimonial = () => {
             <div className="mt-10">
               <h3 className="text-black text-2xl font-smibold">Lorem Ipsum</h3>
               <p className="text-black text-sm font-semibold opacity-50">
-                Google review
+                Github Review
               </p>
             </div>
           </div>
